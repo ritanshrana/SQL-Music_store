@@ -8,6 +8,7 @@ The dataset used for this analysis contains information about customers, invoice
 
 # Tools:
 Postgre SQL
+
 PgAdmin 4
 # Functions:
 Window Functions
